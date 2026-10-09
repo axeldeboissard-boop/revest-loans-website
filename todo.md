@@ -1,6 +1,6 @@
 # Current Update
 
-- [ ] Export the complete Revest Loans project to a new GitHub repository with deployment documentation and a safe environment template.
+- [x] Export the complete Revest Loans project to a new GitHub repository with deployment documentation and a safe environment template.
 - [x] Replace the local Beat the Rate page disclosure with the supplied California, Florida, Oregon, Texas, and Wisconsin language.
 - [x] Update the Revest Homes footer disclosure to list California, Florida, Oregon, Texas, and Wisconsin only.
 - [x] Replace the footer licensing and loan-approval disclosure with the user-provided text and verify it in the live site.
